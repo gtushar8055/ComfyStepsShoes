@@ -1,0 +1,46 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.h1{
+    font-family: 'Rosario', sans-serif;
+    color: #fff;
+    font-size: 2rem;
+}
+body{
+    background-color: hsl(212, 29%, 36% ,1);;
+}
+
+.content{
+    color: #fff;
+    font-family:  'poppins', sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.h2{
+    font-family:'Rosario', sans-serif; 
+}
+
+.btn{
+    background-color: #013a63;
+    color:  hsla(0, 0%, 100%, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+    gap: 12px;
+    min-height: 58px;
+    padding-inline: 36px;
+    border-radius: 32px 6px;
+    transition:  0.25s ease;
+    
+}
+
+.button-container {
+    display: flex;          
+    justify-content: center; 
+    align-items: center;      
+  }
